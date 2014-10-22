@@ -1,0 +1,4 @@
+name: space_invaders_dart
+description: A recreation of Mary's live-coded game (http://vimeo.com/105955605) in Dart
+dependencies:
+  browser:  any
